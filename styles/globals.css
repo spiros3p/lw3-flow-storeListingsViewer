@@ -95,6 +95,14 @@ body {
     rgb(var(--background-start-rgb));
 }
 
+body h2 {
+  margin-bottom: 20px;
+}
+
+hr {
+  margin-bottom: 15px;
+}
+
 a {
   color: inherit;
   text-decoration: none;
